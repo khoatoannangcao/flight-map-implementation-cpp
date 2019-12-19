@@ -1,0 +1,101 @@
+city1	city2	nsmiles	passengers	fare	carrier_lg
+"Los Angeles, CA (Metropolitan Area)"	"San Francisco, CA (Metropolitan Area)"	372	21242.41758	149.5939024	WN
+"Miami, FL (Metropolitan Area)"	"New York City, NY (Metropolitan Area)"	1139	15370.10989	171.0117382	AA
+"Los Angeles, CA (Metropolitan Area)"	"New York City, NY (Metropolitan Area)"	2510	13680.87912	351.4458963	UA
+"Chicago, IL"	"New York City, NY (Metropolitan Area)"	773	12129.12088	182.3932421	AA
+"New York City, NY (Metropolitan Area)"	"Orlando, FL"	989	10717.14286	165.3911716	B6
+"New York City, NY (Metropolitan Area)"	"San Francisco, CA (Metropolitan Area)"	2619	10525.71429	362.482781	UA
+"Los Angeles, CA (Metropolitan Area)"	"Seattle, WA"	978	8570.43956	134.8211268	AS
+"Boston, MA (Metropolitan Area)"	"Washington, DC (Metropolitan Area)"	418	8117.912088	159.2755229	AA
+"Atlanta, GA (Metropolitan Area)"	"New York City, NY (Metropolitan Area)"	795	7706.703297	219.9578189	DL
+"Chicago, IL"	"Los Angeles, CA (Metropolitan Area)"	1750	7103.406593	214.1138983	AA
+"San Francisco, CA (Metropolitan Area)"	"Seattle, WA"	697	7032.857143	153.0731996	AS
+"San Diego, CA"	"San Francisco, CA (Metropolitan Area)"	447	6505.274725	158.8516115	WN
+"Las Vegas, NV"	"San Francisco, CA (Metropolitan Area)"	414	6412.197802	127.2552673	WN
+"Las Vegas, NV"	"Los Angeles, CA (Metropolitan Area)"	236	6371.648352	130.8939188	WN
+"Los Angeles, CA (Metropolitan Area)"	"Washington, DC (Metropolitan Area)"	2329	6170.989011	268.0757426	UA
+"Chicago, IL"	"Washington, DC (Metropolitan Area)"	622	6130.43956	185.5353936	UA
+"Dallas/Fort Worth, TX"	"Los Angeles, CA (Metropolitan Area)"	1246	5961.428571	178.6317554	AA
+"Dallas/Fort Worth, TX"	"New York City, NY (Metropolitan Area)"	1428	5932.087912	208.9437035	AA
+"Los Angeles, CA (Metropolitan Area)"	"Sacramento, CA"	404	5831.648352	149.3032468	WN
+"Miami, FL (Metropolitan Area)"	"Washington, DC (Metropolitan Area)"	946	5787.582418	142.9007785	AA
+"Chicago, IL"	"San Francisco, CA (Metropolitan Area)"	1855	5723.516484	231.8683684	UA
+"Denver, CO"	"Los Angeles, CA (Metropolitan Area)"	862	5508.681319	155.1248678	WN
+"Atlanta, GA (Metropolitan Area)"	"Washington, DC (Metropolitan Area)"	577	5473.186813	170.3763041	DL
+"New York City, NY (Metropolitan Area)"	"West Palm Beach/Palm Beach, FL"	1077	5364.505495	182.2291886	B6
+"Orlando, FL"	"Washington, DC (Metropolitan Area)"	787	5138.791209	135.4013857	WN
+"Boston, MA (Metropolitan Area)"	"Chicago, IL"	867	5053.626374	166.2723928	AA
+"Las Vegas, NV"	"New York City, NY (Metropolitan Area)"	2282	4850.659341	272.4195034	UA
+"Los Angeles, CA (Metropolitan Area)"	"Portland, OR"	859	4804.725275	130.3060494	AS
+"San Francisco, CA (Metropolitan Area)"	"Washington, DC (Metropolitan Area)"	2457	4804.395604	349.7984172	UA
+"Los Angeles, CA (Metropolitan Area)"	"Phoenix, AZ"	370	4712.637363	146.5066737	WN
+"Boston, MA (Metropolitan Area)"	"Orlando, FL"	1142	4630.659341	188.3541802	WN
+"Chicago, IL"	"Orlando, FL"	1005	4611.978022	148.1067288	WN
+"New York City, NY (Metropolitan Area)"	"Tampa, FL (Metropolitan Area)"	1055	4611.098901	181.7348752	B6
+"Chicago, IL"	"Las Vegas, NV"	1521	4545.164835	164.5891806	WN
+"Charlotte, NC"	"New York City, NY (Metropolitan Area)"	575	4476.923077	142.0740353	AA
+"Atlanta, GA (Metropolitan Area)"	"Miami, FL (Metropolitan Area)"	594	4465.494505	122.8019441	DL
+"Atlanta, GA (Metropolitan Area)"	"Chicago, IL"	606	4420.659341	137.7078179	DL
+"Dallas/Fort Worth, TX"	"Washington, DC (Metropolitan Area)"	1217	4263.626374	194.3884404	AA
+"Chicago, IL"	"Miami, FL (Metropolitan Area)"	1197	4224.505495	166.4088052	AA
+"Chicago, IL"	"Dallas/Fort Worth, TX"	802	4216.373626	178.0104642	AA
+"Denver, CO"	"San Francisco, CA (Metropolitan Area)"	967	4210.32967	187.567615	WN
+"Boston, MA (Metropolitan Area)"	"New York City, NY (Metropolitan Area)"	209	4142.307692	209.5696856	DL
+"Boston, MA (Metropolitan Area)"	"San Francisco, CA (Metropolitan Area)"	2704	4135.824176	345.67978	UA
+"Houston, TX"	"New York City, NY (Metropolitan Area)"	1465	4035.164835	293.1736029	UA
+"Phoenix, AZ"	"San Francisco, CA (Metropolitan Area)"	668	3946.813187	166.7459684	WN
+"Boston, MA (Metropolitan Area)"	"Los Angeles, CA (Metropolitan Area)"	2611	3917.142857	286.517988	AA
+"Denver, CO"	"New York City, NY (Metropolitan Area)"	1659	3879.340659	249.087927	UA
+"Boston, MA (Metropolitan Area)"	"Miami, FL (Metropolitan Area)"	1283	3865.604396	175.930284	AA
+"Portland, OR"	"San Francisco, CA (Metropolitan Area)"	569	3860.879121	151.0496556	AS
+"Atlanta, GA (Metropolitan Area)"	"Los Angeles, CA (Metropolitan Area)"	1946	3738.131868	255.597369	DL
+"Chicago, IL"	"Phoenix, AZ"	1444	3643.076923	182.5076164	AA
+"Los Angeles, CA (Metropolitan Area)"	"Miami, FL (Metropolitan Area)"	2342	3624.395604	241.6415742	AA
+"Houston, TX"	"Los Angeles, CA (Metropolitan Area)"	1390	3590.989011	203.8534672	UA
+"Dallas/Fort Worth, TX"	"San Francisco, CA (Metropolitan Area)"	1476	3497.802198	197.399645	AA
+"Orlando, FL"	"Philadelphia, PA"	861	3491.318681	140.2597998	AA
+"Atlanta, GA (Metropolitan Area)"	"Dallas/Fort Worth, TX"	731	3470.659341	156.0711934	DL
+"Chicago, IL"	"Denver, CO"	895	3361.428571	178.0004936	WN
+"Chicago, IL"	"Minneapolis/St. Paul, MN"	349	3238.351648	137.778815	DL
+"Los Angeles, CA (Metropolitan Area)"	"Salt Lake City, UT"	590	3193.626374	150.8454958	DL
+"New York City, NY (Metropolitan Area)"	"Phoenix, AZ"	2189	3153.076923	245.863092	AA
+"Chicago, IL"	"Philadelphia, PA"	678	3143.076923	177.467289	AA
+"New York City, NY (Metropolitan Area)"	"Washington, DC (Metropolitan Area)"	249	3123.296703	215.8410246	AA
+"Denver, CO"	"Washington, DC (Metropolitan Area)"	1491	3072.197802	255.9546482	WN
+"Denver, CO"	"Phoenix, AZ"	602	3063.516484	125.2637133	WN
+"Dallas/Fort Worth, TX"	"Las Vegas, NV"	1067	3058.681319	150.6617303	AA
+"Miami, FL (Metropolitan Area)"	"Philadelphia, PA"	1013	3044.395604	144.1997293	AA
+"Dallas/Fort Worth, TX"	"Denver, CO"	651	3010.10989	131.2958966	AA
+"Tampa, FL (Metropolitan Area)"	"Washington, DC (Metropolitan Area)"	842	2981.098901	154.258106	WN
+"Chicago, IL"	"Houston, TX"	945	2905.934066	201.0334518	UA
+"Las Vegas, NV"	"Washington, DC (Metropolitan Area)"	2106	2905.494505	218.9950983	WN
+"Detroit, MI"	"New York City, NY (Metropolitan Area)"	540	2893.186813	212.9768535	DL
+"Las Vegas, NV"	"Seattle, WA"	867	2849.230769	136.4279235	AS
+"Atlanta, GA (Metropolitan Area)"	"Boston, MA (Metropolitan Area)"	952	2843.846154	212.389505	DL
+"New York City, NY (Metropolitan Area)"	"Seattle, WA"	2448	2800.769231	291.464633	DL
+"Dallas/Fort Worth, TX"	"Houston, TX"	247	2789.340659	197.4789938	WN
+"Houston, TX"	"Washington, DC (Metropolitan Area)"	1246	2788.131868	236.2750828	UA
+"Los Angeles, CA (Metropolitan Area)"	"Orlando, FL"	2218	2776.043956	227.8034677	DL
+"New York City, NY (Metropolitan Area)"	"Raleigh/Durham, NC"	463	2753.516484	165.6247476	DL
+"Minneapolis/St. Paul, MN"	"New York City, NY (Metropolitan Area)"	1057	2613.736264	276.8384486	DL
+"Atlanta, GA (Metropolitan Area)"	"Philadelphia, PA"	666	2603.186813	146.8623581	DL
+"Chicago, IL"	"Tampa, FL (Metropolitan Area)"	1012	2601.538462	157.1190842	WN
+"Dallas/Fort Worth, TX"	"Orlando, FL"	985	2594.285714	154.8479795	AA
+"Fort Myers, FL"	"New York City, NY (Metropolitan Area)"	1120	2523.076923	183.3222953	B6
+"Dallas/Fort Worth, TX"	"Miami, FL (Metropolitan Area)"	1121	2488.241758	158.7053129	AA
+"Denver, CO"	"Las Vegas, NV"	628	2475.164835	135.5823033	WN
+"Boston, MA (Metropolitan Area)"	"Philadelphia, PA"	289	2466.483516	176.0290488	AA
+"New Orleans, LA"	"New York City, NY (Metropolitan Area)"	1218	2378.351648	252.4492861	DL
+"Boston, MA (Metropolitan Area)"	"Tampa, FL (Metropolitan Area)"	1204	2364.065934	192.5856412	WN
+"Minneapolis/St. Paul, MN"	"Washington, DC (Metropolitan Area)"	936	2334.835165	189.7730315	DL
+"Atlanta, GA (Metropolitan Area)"	"San Francisco, CA (Metropolitan Area)"	2139	2311.318681	311.1058004	DL
+"Chicago, IL"	"Seattle, WA"	1733	2308.131868	212.3146496	AS
+"San Diego, CA"	"Seattle, WA"	1050	2285.604396	155.6610558	AS
+"Phoenix, AZ"	"Seattle, WA"	1107	2285.494505	181.1728099	AS
+"Dallas/Fort Worth, TX"	"Phoenix, AZ"	879	2283.296703	156.4233709	AA
+"Austin, TX"	"New York City, NY (Metropolitan Area)"	1559	2282.417582	239.4618825	UA
+"Los Angeles, CA (Metropolitan Area)"	"Minneapolis/St. Paul, MN"	1535	2262.307692	224.5428183	DL
+"Los Angeles, CA (Metropolitan Area)"	"Philadelphia, PA"	2402	2261.428571	282.3187521	AA
+"New York City, NY (Metropolitan Area)"	"San Diego, CA"	2481	2249.340659	325.7538082	DL
+"Denver, CO"	"Minneapolis/St. Paul, MN"	680	2243.406593	136.9355425	DL
+"Detroit, MI"	"Orlando, FL"	957	2240.32967	153.7000736	DL

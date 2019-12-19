@@ -1,0 +1,29 @@
+Los Angeles, CA (Metropolitan Area)
+San Francisco, CA (Metropolitan Area)
+Miami, FL (Metropolitan Area)
+New York City, NY (Metropolitan Area)
+Chicago, IL
+Orlando, FL
+Seattle, WA
+Boston, MA (Metropolitan Area)
+Washington, DC (Metropolitan Area)
+Atlanta, GA (Metropolitan Area)
+San Diego, CA
+Las Vegas, NV
+Dallas/Fort Worth, TX
+Sacramento, CA
+Denver, CO
+West Palm Beach/Palm Beach, FL
+Portland, OR
+Phoenix, AZ
+Tampa, FL (Metropolitan Area)
+Charlotte, NC
+Houston, TX
+Philadelphia, PA
+Minneapolis/St. Paul, MN
+Salt Lake City, UT
+Detroit, MI
+Raleigh/Durham, NC
+Fort Myers, FL
+New Orleans, LA
+Austin, TX

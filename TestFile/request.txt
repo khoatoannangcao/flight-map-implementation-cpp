@@ -1,0 +1,5 @@
+2
+Los Angeles, CA (Metropolitan Area),	New York City, NY (Metropolitan Area)	2
+Sacramento, CA,	Houston, TX	1
+New York City, NY (Metropolitan Area),	Tampa, FL (Metropolitan Area)	1
+West Palm Beach/Palm Beach, FL,	Fort Myers, FL	2

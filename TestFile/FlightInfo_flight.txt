@@ -1,0 +1,100 @@
+Los Angeles, CA (Metropolitan Area),	San Francisco, CA (Metropolitan Area)	372	21242.4	149.594
+Miami, FL (Metropolitan Area),	New York City, NY (Metropolitan Area)	1139	15370.1	171.012
+Los Angeles, CA (Metropolitan Area),	New York City, NY (Metropolitan Area)	2510	13680.9	351.446
+Chicago, IL,	New York City, NY (Metropolitan Area)	773	12129.1	182.393
+New York City, NY (Metropolitan Area),	Orlando, FL	989	10717.1	165.391
+New York City, NY (Metropolitan Area),	San Francisco, CA (Metropolitan Area)	2619	10525.7	362.483
+Los Angeles, CA (Metropolitan Area),	Seattle, WA	978	8570.44	134.821
+Boston, MA (Metropolitan Area),	Washington, DC (Metropolitan Area)	418	8117.91	159.276
+Atlanta, GA (Metropolitan Area),	New York City, NY (Metropolitan Area)	795	7706.7	219.958
+Chicago, IL,	Los Angeles, CA (Metropolitan Area)	1750	7103.41	214.114
+San Francisco, CA (Metropolitan Area),	Seattle, WA	697	7032.86	153.073
+San Diego, CA,	San Francisco, CA (Metropolitan Area)	447	6505.27	158.852
+Las Vegas, NV,	San Francisco, CA (Metropolitan Area)	414	6412.2	127.255
+Las Vegas, NV,	Los Angeles, CA (Metropolitan Area)	236	6371.65	130.894
+Los Angeles, CA (Metropolitan Area),	Washington, DC (Metropolitan Area)	2329	6170.99	268.076
+Chicago, IL,	Washington, DC (Metropolitan Area)	622	6130.44	185.535
+Dallas/Fort Worth, TX,	Los Angeles, CA (Metropolitan Area)	1246	5961.43	178.632
+Dallas/Fort Worth, TX,	New York City, NY (Metropolitan Area)	1428	5932.09	208.944
+Los Angeles, CA (Metropolitan Area),	Sacramento, CA	404	5831.65	149.303
+Miami, FL (Metropolitan Area),	Washington, DC (Metropolitan Area)	946	5787.58	142.901
+Chicago, IL,	San Francisco, CA (Metropolitan Area)	1855	5723.52	231.868
+Denver, CO,	Los Angeles, CA (Metropolitan Area)	862	5508.68	155.125
+Atlanta, GA (Metropolitan Area),	Washington, DC (Metropolitan Area)	577	5473.19	170.376
+New York City, NY (Metropolitan Area),	West Palm Beach/Palm Beach, FL	1077	5364.51	182.229
+Orlando, FL,	Washington, DC (Metropolitan Area)	787	5138.79	135.401
+Boston, MA (Metropolitan Area),	Chicago, IL	867	5053.63	166.272
+Las Vegas, NV,	New York City, NY (Metropolitan Area)	2282	4850.66	272.419
+Los Angeles, CA (Metropolitan Area),	Portland, OR	859	4804.73	130.306
+San Francisco, CA (Metropolitan Area),	Washington, DC (Metropolitan Area)	2457	4804.4	349.798
+Los Angeles, CA (Metropolitan Area),	Phoenix, AZ	370	4712.64	146.507
+Boston, MA (Metropolitan Area),	Orlando, FL	1142	4630.66	188.354
+Chicago, IL,	Orlando, FL	1005	4611.98	148.107
+New York City, NY (Metropolitan Area),	Tampa, FL (Metropolitan Area)	1055	4611.1	181.735
+Chicago, IL,	Las Vegas, NV	1521	4545.17	164.589
+Charlotte, NC,	New York City, NY (Metropolitan Area)	575	4476.92	142.074
+Atlanta, GA (Metropolitan Area),	Miami, FL (Metropolitan Area)	594	4465.49	122.802
+Atlanta, GA (Metropolitan Area),	Chicago, IL	606	4420.66	137.708
+Dallas/Fort Worth, TX,	Washington, DC (Metropolitan Area)	1217	4263.63	194.388
+Chicago, IL,	Miami, FL (Metropolitan Area)	1197	4224.51	166.409
+Chicago, IL,	Dallas/Fort Worth, TX	802	4216.37	178.01
+Denver, CO,	San Francisco, CA (Metropolitan Area)	967	4210.33	187.568
+Boston, MA (Metropolitan Area),	New York City, NY (Metropolitan Area)	209	4142.31	209.57
+Boston, MA (Metropolitan Area),	San Francisco, CA (Metropolitan Area)	2704	4135.82	345.68
+Houston, TX,	New York City, NY (Metropolitan Area)	1465	4035.16	293.174
+Phoenix, AZ,	San Francisco, CA (Metropolitan Area)	668	3946.81	166.746
+Boston, MA (Metropolitan Area),	Los Angeles, CA (Metropolitan Area)	2611	3917.14	286.518
+Denver, CO,	New York City, NY (Metropolitan Area)	1659	3879.34	249.088
+Boston, MA (Metropolitan Area),	Miami, FL (Metropolitan Area)	1283	3865.6	175.93
+Portland, OR,	San Francisco, CA (Metropolitan Area)	569	3860.88	151.05
+Atlanta, GA (Metropolitan Area),	Los Angeles, CA (Metropolitan Area)	1946	3738.13	255.597
+Chicago, IL,	Phoenix, AZ	1444	3643.08	182.508
+Los Angeles, CA (Metropolitan Area),	Miami, FL (Metropolitan Area)	2342	3624.4	241.642
+Houston, TX,	Los Angeles, CA (Metropolitan Area)	1390	3590.99	203.853
+Dallas/Fort Worth, TX,	San Francisco, CA (Metropolitan Area)	1476	3497.8	197.4
+Orlando, FL,	Philadelphia, PA	861	3491.32	140.26
+Atlanta, GA (Metropolitan Area),	Dallas/Fort Worth, TX	731	3470.66	156.071
+Chicago, IL,	Denver, CO	895	3361.43	178
+Chicago, IL,	Minneapolis/St. Paul, MN	349	3238.35	137.779
+Los Angeles, CA (Metropolitan Area),	Salt Lake City, UT	590	3193.63	150.845
+New York City, NY (Metropolitan Area),	Phoenix, AZ	2189	3153.08	245.863
+Chicago, IL,	Philadelphia, PA	678	3143.08	177.467
+New York City, NY (Metropolitan Area),	Washington, DC (Metropolitan Area)	249	3123.3	215.841
+Denver, CO,	Washington, DC (Metropolitan Area)	1491	3072.2	255.955
+Denver, CO,	Phoenix, AZ	602	3063.52	125.264
+Dallas/Fort Worth, TX,	Las Vegas, NV	1067	3058.68	150.662
+Miami, FL (Metropolitan Area),	Philadelphia, PA	1013	3044.4	144.2
+Dallas/Fort Worth, TX,	Denver, CO	651	3010.11	131.296
+Tampa, FL (Metropolitan Area),	Washington, DC (Metropolitan Area)	842	2981.1	154.258
+Chicago, IL,	Houston, TX	945	2905.93	201.033
+Las Vegas, NV,	Washington, DC (Metropolitan Area)	2106	2905.49	218.995
+Detroit, MI,	New York City, NY (Metropolitan Area)	540	2893.19	212.977
+Las Vegas, NV,	Seattle, WA	867	2849.23	136.428
+Atlanta, GA (Metropolitan Area),	Boston, MA (Metropolitan Area)	952	2843.85	212.39
+New York City, NY (Metropolitan Area),	Seattle, WA	2448	2800.77	291.465
+Dallas/Fort Worth, TX,	Houston, TX	247	2789.34	197.479
+Houston, TX,	Washington, DC (Metropolitan Area)	1246	2788.13	236.275
+Los Angeles, CA (Metropolitan Area),	Orlando, FL	2218	2776.04	227.803
+New York City, NY (Metropolitan Area),	Raleigh/Durham, NC	463	2753.52	165.625
+Minneapolis/St. Paul, MN,	New York City, NY (Metropolitan Area)	1057	2613.74	276.838
+Atlanta, GA (Metropolitan Area),	Philadelphia, PA	666	2603.19	146.862
+Chicago, IL,	Tampa, FL (Metropolitan Area)	1012	2601.54	157.119
+Dallas/Fort Worth, TX,	Orlando, FL	985	2594.29	154.848
+Fort Myers, FL,	New York City, NY (Metropolitan Area)	1120	2523.08	183.322
+Dallas/Fort Worth, TX,	Miami, FL (Metropolitan Area)	1121	2488.24	158.705
+Denver, CO,	Las Vegas, NV	628	2475.16	135.582
+Boston, MA (Metropolitan Area),	Philadelphia, PA	289	2466.48	176.029
+New Orleans, LA,	New York City, NY (Metropolitan Area)	1218	2378.35	252.449
+Boston, MA (Metropolitan Area),	Tampa, FL (Metropolitan Area)	1204	2364.07	192.586
+Minneapolis/St. Paul, MN,	Washington, DC (Metropolitan Area)	936	2334.84	189.773
+Atlanta, GA (Metropolitan Area),	San Francisco, CA (Metropolitan Area)	2139	2311.32	311.106
+Chicago, IL,	Seattle, WA	1733	2308.13	212.315
+San Diego, CA,	Seattle, WA	1050	2285.6	155.661
+Phoenix, AZ,	Seattle, WA	1107	2285.49	181.173
+Dallas/Fort Worth, TX,	Phoenix, AZ	879	2283.3	156.423
+Austin, TX,	New York City, NY (Metropolitan Area)	1559	2282.42	239.462
+Los Angeles, CA (Metropolitan Area),	Minneapolis/St. Paul, MN	1535	2262.31	224.543
+Los Angeles, CA (Metropolitan Area),	Philadelphia, PA	2402	2261.43	282.319
+New York City, NY (Metropolitan Area),	San Diego, CA	2481	2249.34	325.754
+Denver, CO,	Minneapolis/St. Paul, MN	680	2243.41	136.936
+Detroit, MI,	Orlando, FL	957	2240.33	153.7
